@@ -1,3 +1,5 @@
+This is the coding task for homework 1, see hw1.pdf problem 4.
+
 To use terminal to make file and generate executable file 'hw-checker', 
 
 1. 'cd' to current directory
